@@ -1,0 +1,10 @@
+C:\Users\badgo\OneDrive\Documents\Visual Studio Projects\Jarvis\Jarvis\bin\Debug\Jarvis.exe.config
+C:\Users\badgo\OneDrive\Documents\Visual Studio Projects\Jarvis\Jarvis\bin\Debug\Jarvis.exe
+C:\Users\badgo\OneDrive\Documents\Visual Studio Projects\Jarvis\Jarvis\bin\Debug\Jarvis.pdb
+C:\Users\badgo\OneDrive\Documents\Visual Studio Projects\Jarvis\Jarvis\obj\Debug\Jarvis.csproj.AssemblyReference.cache
+C:\Users\badgo\OneDrive\Documents\Visual Studio Projects\Jarvis\Jarvis\obj\Debug\Jarvis.Properties.Resources.resources
+C:\Users\badgo\OneDrive\Documents\Visual Studio Projects\Jarvis\Jarvis\obj\Debug\Jarvis.csproj.GenerateResource.cache
+C:\Users\badgo\OneDrive\Documents\Visual Studio Projects\Jarvis\Jarvis\obj\Debug\Jarvis.csproj.CoreCompileInputs.cache
+C:\Users\badgo\OneDrive\Documents\Visual Studio Projects\Jarvis\Jarvis\obj\Debug\Jarvis.exe
+C:\Users\badgo\OneDrive\Documents\Visual Studio Projects\Jarvis\Jarvis\obj\Debug\Jarvis.pdb
+C:\Users\badgo\OneDrive\Documents\Visual Studio Projects\Jarvis\Jarvis\obj\Debug\Jarvis.Jarvis.resources
